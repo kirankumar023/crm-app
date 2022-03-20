@@ -15,4 +15,9 @@ def update_lead();
 
 # Delete Lead.
 def delete_lead();
-	print "Lead Deleted successfully."
+	print "Deleted the lead successfully."
+
+
+# Access Lead
+def Access_lead();
+	print "Access the Lead."
